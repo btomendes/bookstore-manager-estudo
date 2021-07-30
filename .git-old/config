@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/dbasuporte/bookstore-manager-estudo
+	fetch = +refs/heads/*:refs/remotes/origin/*
